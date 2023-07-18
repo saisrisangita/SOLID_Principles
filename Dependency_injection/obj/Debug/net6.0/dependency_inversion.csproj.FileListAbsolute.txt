@@ -1,0 +1,15 @@
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\dependency_inversion.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\dependency_inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\dependency_inversion.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\dependency_inversion.AssemblyInfo.cs
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\dependency_inversion.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\bin\Debug\net6.0\dependency_inversion.exe
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\bin\Debug\net6.0\dependency_inversion.deps.json
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\bin\Debug\net6.0\dependency_inversion.runtimeconfig.json
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\bin\Debug\net6.0\dependency_inversion.dll
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\bin\Debug\net6.0\dependency_inversion.pdb
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\dependency_inversion.dll
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\refint\dependency_inversion.dll
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\dependency_inversion.pdb
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\dependency_inversion.genruntimeconfig.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\ref\dependency_inversion.dll

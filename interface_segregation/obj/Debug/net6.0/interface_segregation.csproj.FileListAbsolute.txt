@@ -1,0 +1,15 @@
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\obj\Debug\net6.0\interface_segregation.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\obj\Debug\net6.0\interface_segregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\obj\Debug\net6.0\interface_segregation.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\obj\Debug\net6.0\interface_segregation.AssemblyInfo.cs
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\obj\Debug\net6.0\interface_segregation.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\bin\Debug\net6.0\interface_segregation.exe
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\bin\Debug\net6.0\interface_segregation.deps.json
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\bin\Debug\net6.0\interface_segregation.runtimeconfig.json
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\bin\Debug\net6.0\interface_segregation.dll
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\bin\Debug\net6.0\interface_segregation.pdb
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\obj\Debug\net6.0\interface_segregation.dll
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\obj\Debug\net6.0\refint\interface_segregation.dll
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\obj\Debug\net6.0\interface_segregation.pdb
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\obj\Debug\net6.0\interface_segregation.genruntimeconfig.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\interface_segregation\obj\Debug\net6.0\ref\interface_segregation.dll

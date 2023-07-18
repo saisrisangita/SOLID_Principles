@@ -1,0 +1,15 @@
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\bin\Debug\net6.0\Dependency_injection.exe
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\bin\Debug\net6.0\Dependency_injection.deps.json
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\bin\Debug\net6.0\Dependency_injection.runtimeconfig.json
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\bin\Debug\net6.0\Dependency_injection.dll
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\bin\Debug\net6.0\Dependency_injection.pdb
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\Dependency_injection.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\Dependency_injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\Dependency_injection.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\Dependency_injection.AssemblyInfo.cs
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\Dependency_injection.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\Dependency_injection.dll
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\refint\Dependency_injection.dll
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\Dependency_injection.pdb
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\Dependency_injection.genruntimeconfig.cache
+C:\Users\SAILS-DM318\source\repos\Single_responsibility\Dependency_injection\obj\Debug\net6.0\ref\Dependency_injection.dll
